@@ -14,7 +14,9 @@ N/A
 
 
 ## Usage
-The functional website can be used to learn absout the offerings of the Horiseon marketing company. The included code can lead through the HTML and CSS of the website in an organized and sequential fashion.
+The functional website can be used to learn about the offerings of the Horiseon marketing company, using the scroll bar or by selecting the top links. The included code can lead through the HTML and CSS of the website in an organized, streamlined and sequential fashion.
+
+Link to deployed website: https://erindevine0229.github.io/horiseon-site-refactor/
 
 
 ## Credits
